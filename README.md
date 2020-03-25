@@ -1,7 +1,5 @@
 <h1 align="center">
-  Projeto Home Page de Portfólio de Serviços
-  Com
-  NodeJS, Express, Webpack e outras tecnologias
+  Projeto: Galeria de Imagens utilizando Node.js, AngularJS, MySQL e outras tecnologias
 </h1>
 
 <p align="center">
@@ -12,5 +10,5 @@
 
 [//]: # (Add your gifs/images here:)
 <div align="center">
-  <img src="./angular.PNG" alt="demo" height="425">
+  <img src="https://raw.githubusercontent.com/nathan-oliveira/Projeto_Galeria_Node_AngularJS_MySQL/master/angular.PNG" alt="demo" height="425">
 </div>
